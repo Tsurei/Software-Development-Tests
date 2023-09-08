@@ -1,3 +1,6 @@
 # Ignore all .exe files listed
 *.exe
 *.png
+
+#ignores all txt files within the docs folder
+docs/**/*.txt
