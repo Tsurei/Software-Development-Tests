@@ -7,3 +7,7 @@ Started working on the Git Repo test
 Added some colour shading to my sprite work, so far its looking alright
 will need to make some adjustments in order to change how it looks as 
 it is beginnning to look like a raze drone from valorant.
+
+1:42 PM
+
+Added more colour shading to sprite work
